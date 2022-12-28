@@ -1,2 +1,2 @@
-# cv_amit_website
+# cv
 Welcome to my Portfolio website
